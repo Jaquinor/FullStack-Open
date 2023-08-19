@@ -1,4 +1,4 @@
-# FullStack_Open
+# FullStack-Open
 Entrenamiento en la Universidad de Helsinki
 
 https://fullstackopen.com/es/#course-contents
